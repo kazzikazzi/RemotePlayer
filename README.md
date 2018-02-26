@@ -1,2 +1,2 @@
 # RemotePlayer
-Remote music player
+Remote music player.
